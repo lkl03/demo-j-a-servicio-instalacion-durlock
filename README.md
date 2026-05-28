@@ -1,2 +1,7 @@
-# demo-j-a-servicio-instalacion-durlock
-Demo web para J.A SERVICIO INSTALACIÓN DURLOCK — diseñada por eterlab.
+# J.A SERVICIO INSTALACIÓN DURLOCK
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
